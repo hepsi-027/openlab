@@ -1,4 +1,3 @@
 # openlab
-The repository comprises of the materials for the OST lab session
+The repository comprises of the records for the OST lab session
 
-Instructions
